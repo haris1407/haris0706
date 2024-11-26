@@ -163,13 +163,13 @@ Daftar Nilai
 ======================================================================
 | NO | NIM      | NAMA       | TUGAS   | UTS     | UAS     | AKHIR   |
 ======================================================================
-| 1  | 1224     | AGUNG      | 90.00    | 80.00    | 85.00    | 88.25    |
-| 2  | 5697     | AGUNG      | 90.00    | 85.00    | 80.00    | 85.95    |
-| 3  | 9123     | AGUS       | 90.00    | 80.00    | 95.00    | 88.80    |
+| 1  | 1224     | HARIS      | 80.00    | 80.00    | 85.00    | 88.25    |
+| 2  | 5697     | HARIS      | 80.00    | 85.00    | 80.00    | 85.95    |
+| 3  | 9123     | HARIS      | 80.00    | 80.00    | 85.00    | 88.80    |
 ======================================================================
 
 ## screenshout output VSC
-![GAMBAR](https://github.com/user-attachments/assets/4e3dee63-9c98-4f0e-ab1f-55f06de77877)
+![Gambar WhatsApp 2024-11-26 pukul 09 44 27_9d447408](https://github.com/user-attachments/assets/d963f1fa-4f94-4139-8559-607bffcb0e4c)
 
 # BERIKUT DI BAWAH INI ADALAH FLOWCHART NYA :
 ![image](https://github.com/user-attachments/assets/49b1e0f3-f072-44cb-8e04-05f71026b610)
